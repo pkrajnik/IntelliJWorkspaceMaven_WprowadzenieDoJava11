@@ -1,0 +1,7 @@
+﻿1. Napisać program, który wypisze w którym z  przedziałów znajduje się liczba (... ; 56) [56 ; 77] (77 ; ...)
+2. Przerobić program discountForDay tak, aby w niedzielę zniżka wynosiła 50%
+3. wydzielić w programie discountForDay osobną metodę, która jako argument przyjmie dzień tygodnia (tekst),
+a zwracana wartość będzie wartość zniżki w postaci liczby double;
+4. Napisać program sprawdzający czy dany rok jest przestępny.
+Rok jest przestępny, gdy jest podzielny przez 4 i nie jest podzielny przez 100, lub jest podzielny przez 400.
+Np. 2012, 1996, 2000 to lata przestępne, natomiast 1900, 2001, 1998 nie są przestępne.
