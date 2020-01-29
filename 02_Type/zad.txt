@@ -1,0 +1,5 @@
+1. Zdefiniować w nowym programie zmienne: a=6 b=3000 c=8 d=0.25
+   Obliczyć wynik wyrażenia ((a-b)/c+d)*2
+2. Napisać program obliczający pole trójkąta (dane: podstawa, wysokość przy podstawie).
+   Użyć Scannera do wczytania liczb
+3. Napisac program obliczajacy rownanie ax+b=0. (dane a,b szukane x)
