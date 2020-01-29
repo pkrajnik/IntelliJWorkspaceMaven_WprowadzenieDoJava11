@@ -1,0 +1,19 @@
+﻿1. Napisać program, który oblicza sumę wszystkich liczb parzystych od 1 do 100
+2. Napisać program, który oblicza silnię dla zadanej wartości.
+Silnia z n to iloczyn liczb od 1 do n, np:
+5! = 1*2*3*4*5 =120
+
+3. Napisać program, wypisujący tabliczkę mnożenia od 1 do 10
+1  2  3  4
+2  4  6  8
+3  6  9 12
+4  8 12 16...
+
+4. Napisać prostą grę, w której zadaniem uczestnika jest zgadnięcie liczby z przedziału od 1 do 1000
+wylosowanej przez komputer. Za każdą nieudaną próbą odgadnięcia komputer podaje informację
+czy szukana liczba jest większa od podanej przez użytkownika czy mniejsza.
+Do wylosowania liczby użyć:
+Random generator = new Random();
+int i = generator.nextInt(1000);
+Użytkownik podaje propozycje z klawiatury (Scanner)
+
