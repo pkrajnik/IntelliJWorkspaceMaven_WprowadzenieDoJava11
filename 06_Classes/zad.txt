@@ -1,0 +1,19 @@
+﻿1. Dopisać do klasy Point metodę, która zwróci w której ćwiartce układu współrzędnych znajduje się punkt:
+   |
+  2|1
+--------
+  3|4
+   |
+2. Stworzyc klasę Osoba z polami: imie, nazwisko, plec, wiek, pesel
+
+Dodać do klasy metodę czyOsiagnietoWiekEmerytalny zwracającą wartość boolean
+Dla kobiet wiek emerytalny przyjmijmy >=60 lat, a dla mężczyzn >=65 lat
+
+Dodać do klasy drugą metodę zwracającą różnicę wieku pomiędzy daną osobą a inną osobą
+
+3. Stworzyć za pomocą new dwa obiekty Point, oba z tymi samymi współrzędnymi, np (23,56).
+Sprawdzić, if-em czy oba punkty są równe (point1 == point2).
+Jeśli są napisać, że są, jeśli nie, że nie są.
+Czy wszystko działa prawidłowo ?
+
+
