@@ -1,0 +1,6 @@
+1. Zmodyfikować metody opis dla Polityka i Studenta, tak aby usunąć redundantny kod
+wyświetlający imię i nazwisko
+
+2. Utworzyć nowy projekt, a w nim klasy Konto, i KontoPremium będące szczególnym rodzajem konta.
+Konto posiada pole stanKonta, natomiast KontoPremium posiada dodatkowe pole debet. Zrealizować
+metodę wyplac() dla obu kont.

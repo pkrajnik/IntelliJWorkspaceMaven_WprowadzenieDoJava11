@@ -1,4 +1,4 @@
-package com.sdacademy.classbasics.zwierze;
+package com.sdacademy.classbasics.animal;
 
 public class Animal {
 
