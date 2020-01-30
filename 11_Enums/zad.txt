@@ -1,0 +1,5 @@
+﻿1. Dla klasy Animal z projektu 06_Classes zmienić pole typ ze Stringa na Enuma (AnimalKind) i obsłużyć enumem metodę
+isDangerous
+2. do enuma AnimalKind dodać pole isDangerous. Zmienić klasę Animal, aby korzystała z tego pola
+3. Co można zrobić, aby wypisywany typ samochodu mógł być wyświetlany w formie pierwsza litera wielka, reszta małe,
+np: zamiast TRUCK, Truck
