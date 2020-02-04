@@ -1,0 +1,6 @@
+1. Dopisaæ nowe klasy rozszerzaj¹ce klasê UrzadzenieAgd(KitchenAppliance): Piekarnik, Mikrofala, Okap, do ka¿dej z nich dodaæ specyficzne dla niej pola,
+zaimplemetowaæ w ka¿dej z nich metodê opis()
+
+2. Utworzyæ nowy projekt. Utworzyæ klasê Ksztalt, a w niej metodê abstrakcyjn¹ obliczPole.
+Utworzyæ klasy Prostokat, Trojkat, Okrag rozszerzaj¹ce klasê Ksztalt. Zaimplementowaæ w tych klasach
+metodê obliczPole().
