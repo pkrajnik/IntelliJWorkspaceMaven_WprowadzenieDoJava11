@@ -1,0 +1,14 @@
+1. Dopisz klasê Llama rozszerzaj¹c¹ klasê Animal.
+Dopisz do niej metodê split();  (pluj)
+W klasie Main stwórz tablicê Animal[] zoo, w której bêd¹ siê znajdowaæ ró¿ne zwierzêta.
+Dla ka¿dego z nich wywo³aj zarówno metody, które ma klasa Animal, jak i metody specyficzne dla ka¿dego z nich.
+
+2. utwórz klasê Calf (cielak) rozszerzaj¹c¹ klase Cow.
+Które deklaracje sa dopuszczalne?
+Animal cielak = new Calf();
+Cow cielak = new Calf();
+Calf cielak = new Animal();
+Calf cielak = new Cow();
+Calf cielak = new Calf();
+
+
