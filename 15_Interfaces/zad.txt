@@ -1,0 +1,4 @@
+1. Dopisz klasê LandlinePhone implementuj¹c¹ interfejs Phone
+Do klasy MobilePhone nale¿y do³o¿yæ metodê charge() (³aduj)
+Utwórz w klasie Main tablicê typu Phone zawieraj¹c¹ i telefony stacjonarne i telefony komórkowe.
+Dla ka¿dego z telefonów wywo³aj metodê call(), dla telefonów komórkowych wywo³aj tak¿e metodê charge()
