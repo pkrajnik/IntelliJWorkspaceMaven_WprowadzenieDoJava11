@@ -1,0 +1,9 @@
+1. W programie z pakietu simpleexception2, dodac obsluge drugiego wyjatku, ktory bedzie wyrzucany,
+jezeli nie bedzie spelniony warunek: name powinno miec pierwsza litere wielka, reszte malych
+2. W programie simpleexception2 zastanowic się nad bardziej rozbudowana walidacja emaila i ja
+zaimplementowac.
+3. W programie simpleexception2 dodac settery na name i email, dodac do nich obsluge wyjatkow
+4. Czy metoda walidujaca email powinna znajdowac sie w klasie User ?
+5. Napisac program, ktory za pomoca skanera poprosi uzytkownika o 3 dodatnie liczby, wieksze niz 10,
+a nastepnie zwroci ich sume. Uzyj mechanizmu wyjatkow, aby sprawdzic, czy uzytkownik podal
+prawidlowe liczby.
