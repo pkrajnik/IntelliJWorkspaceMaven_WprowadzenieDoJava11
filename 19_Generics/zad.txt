@@ -1,0 +1,7 @@
+1. Do kształtów (shapes) dopisać klasę TrojkatRownoramienny, która będzie zawierała pola podstawa i wysokosc
+2. Do klasy abstrakcyjnej Shape dodać metodę area() i zaimplementować obliczanie pola powierzchni
+we wszystkich klasach pochodnych. W BoxForShapes dodać metodę obliczającą sumę pól powierzchni.
+3. (Po omówieniu List) Utwórz hierarchię klas: (abstrakcyjna) Osoba zawierającą pole imie, Kobieta (rozszerza Osoba), Mezczyzna (rozszerza Osoba), wszystkie mają metodę void powiedz wypisującą np. "Kobieta [imię] mówi", "Mężczyzna [imię] mówi". Dodaj klasę
+generyczną GrupaLudzi<T extends Osoba> z listą osób i metodę void dodajOsobe(T osoba) oraz metodę void osobyDyskusja(),
+uruchamiającą na wszystkich Osobach w liśćie metodę powiedz().
+4. Utwórz metodę generyczną zwracającą losowy element z przekazanej tablicy obiektów typu generycznego.
