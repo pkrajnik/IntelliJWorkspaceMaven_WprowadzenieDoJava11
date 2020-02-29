@@ -1,0 +1,16 @@
+1. Utwórz plik osoby.txt zawierający dane: imię, nazwisko oraz wiek oddzielone średnikami, np:
+Jan;Weber;88
+Adam;Nowak;30
+Rafal;Arowski;4
+Anna;Kowalska;11
+Wczytaj dane z tego pliku, następnie posortuj po wieku i zapisz w drugim pliku osoby_posortowane.txt
+2. Zapisz do pliku wczytane od użytkownika linie aż do napotkania słowa koniec.
+Dodatkowo, na końcu każdej linii napisz ile ma ona znaków. Na końcu pliku napisz ile linii zawiera plik.
+3. Utwórz klasę Filmy z polami tytul, rezyser, gatunek, rok.
+Utwórz klasę BazaFilmow z metodami List<Film> wczytajFilmy() i void zapiszFilm(Film film).
+wczytajFilmy() spowoduje wczytanie filmów z pliku filmy.txt, natomiast zapiszFilm(Film film)
+spowoduje dopisanie na koniec pliku nowego filmu, bez usuwania tych, które już się w nim znajdują.
+Format danych w pliku należy przemyśleć samemu (np: pola oddzielone średnikiem)
+3a. Dodaj metodę usuwania wybranego filmu z bazy (pliku) po tytule.
+4.Znajdź w internecie informacje na temat serializacji obiektów w Javie. Zrealizuj za jej pomocą poprzednie
+zadanie o filmach.
