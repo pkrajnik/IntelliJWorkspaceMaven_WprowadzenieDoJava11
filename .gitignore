@@ -4,6 +4,8 @@
 # intellij configuration
 *.iml
 **/.idea
+**/target
+**/out
 
 # Log file
 *.log
