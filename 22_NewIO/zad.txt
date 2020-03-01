@@ -1,0 +1,16 @@
+1. Przerobić oba przykłady tak, aby korzystały z konstrukcji try-with resource
+2. Czy w naszym przykładzie FileCopier można ustawić wielkość bufora wejściowego na większą wartość, niż wyjściowego?
+ByteBuffer inBufor = ByteBuffer.allocate(20);
+ByteBuffer outBufor = ByteBuffer.allocate(16);
+Uzasadnij odpowiedź.
+3. Czy kod w forze UserInputSaver można napisać zgrabniej ?
+
+Spróbuj zrealizować zadania z classic IO:
+3. Utwórz klasę Filmy z polami tytul, rezyser, gatunek, rok.
+Utwórz klasę BazaFilmow z metodami List<Film> wczytajFilmy() i void zapiszFilm(Film film).
+wczytajFilmy() spowoduje wczytanie filmów z pliku filmy.txt, natomiast zapiszFilm(Film film)
+spowoduje dopisanie na koniec pliku nowego filmu, bez usuwania tych, które już się w nim znajdują.
+Format danych w pliku należy przemyśleć samemu (np: pola oddzielone średnikiem)
+3a. Dodaj metodę usuwania wybranego filmu z bazy (pliku) po tytule.
+
+
