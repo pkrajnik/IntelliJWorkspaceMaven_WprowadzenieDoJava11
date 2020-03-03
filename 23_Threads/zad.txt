@@ -1,0 +1,11 @@
+1. Napisz program, wypisujący na ekranie losową liczbę z 20 wątków,
+wypisz też nazwę tego wątku. Użyj interfejsu Runnable
+2. Napisz program, wypisujący listę 50 losowych liczb.
+Użyj interfejsu callable
+3. Napisz program przeciaganie liny, w ktorym dwa watki beda miedzy soba
+przeciagaly line (jeden w prawo drugi w lewo) o losową wartość(np: od 0 do 3), której reprezentacją może być np(:
+[*********************************************                                             ]
+Kiedy lina zostanie przeciągnięta w prawo, zwiększy się liczba gwiazdek, kiedy w lewo zmniejszy się.
+4. Napisz program znajdujący maksymalny element tablicy int[]
+W poszukiwaniu maksimum będą brały udził dwa wątki. Pierwszy będzie przeszukiwał
+pierwszą połowę tablicy, a drugi drugą połowę tablicy.
