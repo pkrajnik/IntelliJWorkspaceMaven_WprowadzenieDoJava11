@@ -1,1 +1,87 @@
-TODO
+1) Wykonaj za pomocą Jshell-a proste obliczenia arytmetyczne:
+
+1+8
+98-77
+1-77
+4*8
+37/2
+
+Czy otrzymane wyniki Cię satysfakcjonują ?
+
+2) Spróbuj za zmienne wewnętrzne
+$1 przypisać 999
+$5 przypisać 2.3
+
+Czy wszystko się udało ?
+
+Wylistuj zmienne wewnętrzne za pomocą polecenia /vars
+
+3) Utwórz Stringi
+
+ALA
+MA
+KOTA
+
+i skonkatenuj je
+
+4) Sprawdź jak działa Autocomplete w Jshell-u
+wpisz Str i naciśnij klawisz TAB
+
+5) Spróbuj utworzyć obiekt LocalDateTime,
+np: LocalDateTime.now()
+
+Czy wszystko działa?
+Użyj komendy /imports
+Zaimportuj potrzebne pakiety
+import java.time.*
+
+Spróbuj utworzyć obiekt jeszcze raz
+odejmij 3 dni od utworzonej daty
+
+
+6) Napisz prostą metodę dodającą dwie liczby tyou int:
+
+int dodaj(int a, int b){
+return a+b;
+}
+
+Wywołaj dodaj(44,55)
+
+Wydaj polecienie /methods
+
+7) Napisz metodę wypisującą miejsca zerowe równania kwadratowgo ax^2+bx+c=0
+
+void wypiszMiejscaZerowe(double a, double b, double c){
+double delta=obliczDelte(a,b,c);
+if (delta>0){
+double x1=(-b-Math.sqrt(delta))/(2*a);
+double x2=(-b+Math.sqrt(delta))/(2*a);
+System.out.printf("Dwa pierwiastki: %f oraz %f",x1,x2);
+} else if (delta==0){
+double x=-b/(2*a);
+System.out.println("Jeden podwojny pierwiastek: %f");
+} else {
+System.out.println("Brak pierwiastkow");
+}
+}
+
+Czy wszystko jest ok ?
+Spróbuj wywołać wypiszMiejscaZerowe(1,5,1)
+
+Dopisz metodę obliczjącą deltę ze wzoru b^2-4ac i spróbuj raz jeszcze
+
+poleceniem /edit identyfikator_metody można wyedytować metodę w Jshellu
+
+8)Zapoznaj się z poleceniem /list które wypisuje wszystkie akcje użytkownika
+
+9) Wyjdź z jshella /exit
+
+
+
+
+
+
+
+
+
+
