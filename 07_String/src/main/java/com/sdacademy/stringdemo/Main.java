@@ -29,5 +29,15 @@ public class Main {
         String text6="Adam ma 28 lat";
         String[] text6splitted= text6.split(" ");
         System.out.println(Arrays.toString(text6splitted));
+
+        String text7=" Ten kubek jest zielony.";
+        text7=text7.repeat(3);
+        System.out.println(text7);
+
+        String text8="       ";
+        System.out.println(text8.isBlank());
+
+        String text9="";
+        System.out.println(text9.isEmpty());
     }
 }
