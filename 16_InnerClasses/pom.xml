@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.sdacademy</groupId>
-    <artifactId>22_NewIO</artifactId>
+    <artifactId>16_InnerClasses</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
