@@ -4,7 +4,9 @@ Wypisz na ekranie wszystkie osoby.
 Liczby zapamiętuj na liście.
 3. Zmodyfikuj sortowanie filmów (movies) w taki sposób, aby były sortowane w odwrotnej kolejności
 4. Poszukaj informacji o interfejsie Comparator. Zmień program filmy tak, aby można było je sortować zarówno po
-tytule jak i po roku produkcji.
+tytule jak i po roku produkcji. Należy utworzyć odpwiednie klasy implementujące interfejs Comparator,
+oraz użyć je w Collections.sort
+4a. Zmodyfikuj przykład z zadania 4, w taki sposób, aby użyć klas anonimowych.
 5. Wczytaj od użytkownika zdanie i wyświetl jakie litery w nim sie znajdują
 6. Utwórz listę liczb: 4,7,8,3,4,8,7,89,12,1,1,5 i wyświetl te liczby bez powtórzeń
 7. Utwórz klasę Pracownik (imie, nazwisko, stanowisko). Dodaj 5 pracowników do zbioru. Usuń z niego dwóch pierwszych
