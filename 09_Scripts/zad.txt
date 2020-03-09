@@ -1,1 +1,2 @@
-TODO
+1. Używając notatnika napisz program typu Hello World i
+uruchom bez korzystania z kompilatora javac
