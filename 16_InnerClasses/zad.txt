@@ -1,8 +1,11 @@
 1. Czy możemy do klasy anonimowej w klasie MainWithAnonymous dodać kolejną metodę
 np: double multiply(double number1, double number2) ? Czy to ma sens ?
 2. Stwórz klasę abstrakcyjną WordManipulationTools, a w niej metodę abstrakcyjną
-String inverseWord(String), która bęędzie miała w zamierzeniu odwrócić słowo podane jako argument,
+String inverseWord(String), która będzie miała w zamierzeniu odwrócić słowo podane jako argument,
 np: folder zamieni na redlof
 Stwórz klasę Main, a w niej, w metocie main, klasę anonimową rozszerzającą WordManipulationTools.
 Skorzystaj z niej i wywołaj metodę inverseWord dla słowa kuropatwa.
+3. Zdefiniuj klasę KlasaZewnetrzna, w niej zdefiniuj klasę KlasaWewnetrzna, a w niej zdefiniuj klasę
+KlasaWewnetrznaKlasyWewnetrznej.
+Stwórz obiekt klasy KlasaWewnetrznaKlasyWewnetrznej.
 
