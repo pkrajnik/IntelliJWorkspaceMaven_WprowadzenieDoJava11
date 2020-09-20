@@ -23,6 +23,6 @@ B->E
 X->A
 Y->B
 Z->C
-17)Napisz prostą grę. Mamy daną tablicę łańcuchów, w której są słowa. Losujemy jedno słowo z tablicy.
+17. Napisz prostą grę. Mamy daną tablicę łańcuchów, w której są słowa. Losujemy jedno słowo z tablicy.
 Połowę losowych literek tego słowa zamieniamy na gwiazdki. Zadaniem gracza jest odgadnięcie pierwotnego słowa.
 
