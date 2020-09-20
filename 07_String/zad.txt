@@ -13,4 +13,16 @@ lub toLowerCase())
 Słowa w wyrazie powinny być oddzielone przecinkiem
 12. W zadaniu regex dopisac kod znajdujacy daty i wypisujacy je na ekranie
 13. W zadaniu regex zapisac pattern adresow ip w inny sposob
+14. Napisać metody, które zliczają liczbę spółgłosek i samogłosek w danym wyrazie
+15. Napisać metodę, która sprawdza czy wyraz jest palindromem.
+Palindrom to wyraz, który czytamy od końca brzmi tak samo jak czytany od początku, np: RADAR
+16. Zaimplementować szyfr Cezara. Szyfr Cezara przesuwa każda literkę w wyrazie o 3 pozycje:
+A->D
+B->E
+...
+X->A
+Y->B
+Z->C
+17)Napisz prostą grę. Mamy daną tablicę łańcuchów, w której są słowa. Losujemy jedno słowo z tablicy.
+Połowę losowych literek tego słowa zamieniamy na gwiazdki. Zadaniem gracza jest odgadnięcie pierwotnego słowa.
 
