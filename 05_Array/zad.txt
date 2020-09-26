@@ -26,3 +26,10 @@ wyświetli zawartość całej dwuwymiarowej tablicy w postaci tabelki, np:
   0 1
 0 A B
 1 C D
+
+5. Napisać metodą, która będzie mnożyła dwie tablice przez siebie.
+Zobacz: https://pl.wikipedia.org/wiki/Mno%C5%BCenie_macierzy
+
+6. Napisać metodę obliczającą wyznacznik macierzy dowolnego stopnia.
+Zobacz sekcję Definicja rekurencyjna z linku wikipedii:
+https://pl.wikipedia.org/wiki/Wyznacznik
